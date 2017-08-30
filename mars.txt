@@ -1,5 +1,5 @@
-Cold and dry, but everything is my favourite colour.
-This line added by github 
+Cold and dry, but everything is my favourite colour. This is a test to force an conflit on git.
+This line added by github This is a test to force a conflit on git
 The two moons are always around and might be a problem for the wolfman.
 The super dry humidity level will suit new member The Mummy
 
