@@ -2,3 +2,13 @@ A This is the ultimate version.
 B Cold and dry, but everything is my favourite colour. Can we create a conflict today?
 C The two moons are always around and might be a problem for the wolfman.
 D The super dry humidity level will suit new member The Mummy
+
+I retain this.
+
+Cold and dry, but everything is my favourite colour. This is a test to force an conflit on git.
+This line added by github This is a test to force a conflit on git
+The two moons are always around and might be a problem for the wolfman.
+The super dry humidity level will suit new member The Mummy
+
+Oi Rismita! (: Foi um prazer te conhecer! Good luck with your research project! Fingers crossed.!
+
